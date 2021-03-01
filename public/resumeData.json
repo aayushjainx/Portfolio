@@ -14,7 +14,7 @@
       "state": "Haryana",
       "zip": "134112"
     },
-    "website": "https://www.papareact.com/course",
+    "website": "",
     "resumedownload": "https://firebasestorage.googleapis.com/v0/b/aayush-jain.appspot.com/o/AayushJainResume.pdf?alt=media&token=51383746-1ee0-4b8c-b1b9-c7cb872b43c4",
     "social": [
       {
@@ -75,7 +75,7 @@
       },
       {
         "company": "OPMAGIC.AI",
-        "title": "Web Developer",
+        "title": "Web Developer Intern",
         "years": "December 2020 - March 2021",
         "description": "Technologies Used: React.js, Django, MongoDB. Built various components as per the requirements which were used to maintain a workflow in a business or an organisation."
       }
@@ -110,34 +110,38 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "title": "Felix (MEAN)",
+        "category": "Recommend stuff according to your mood.",
+        "image": "felix.png",
+        "url": "https://github.com/aayushjain7/felix-MEAN"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "title": "Amazon Clone (React JS)",
+        "category": "With Full Payment Processing with Stripe",
+        "image": "amazon.png",
+        "url": "https://github.com/aayushjain7/Amazon-Clone"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "title": "Netflix Clone (React JS)",
+        "category": "With Full Payment Processing with Stripe",
+        "image": "netflix.png",
+        "url": "https://github.com/aayushjain7/Netflix-Clone"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Full-Stack Web Development (Coursera)",
+        "user": ""
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Web Applications for Everybody (Coursera)",
+        "user": ""
+      },
+      {
+        "text": "Crash Course on Python (Google)",
+        "user": ""
       }
     ]
   }
