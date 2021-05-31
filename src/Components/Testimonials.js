@@ -1,4 +1,5 @@
 import React from 'react';
+import Fade from 'react-reveal/Fade';
 
 const Testimonials = ({ data }) => {
   if (data) {
@@ -18,15 +19,18 @@ const Testimonials = ({ data }) => {
     <section id='testimonials'>
       <div className='text-container'>
         <div className='row'>
-          <div className='two columns header-col'>
-            <h1>
-              <span>Certifications</span>
-            </h1>
-          </div>
-
-          <div className='ten columns flex-container'>
-            <ul className='slides'>{testimonials}</ul>
-          </div>
+          <Fade left>
+            <div className='two columns header-col'>
+              <h1>
+                <span>Certifications</span>
+              </h1>
+            </div>
+          </Fade>
+          <Fade right cascade>
+            <div className='ten columns flex-container'>
+              <ul className='slides'>{testimonials}</ul>
+            </div>
+          </Fade>
         </div>
       </div>
     </section>

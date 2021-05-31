@@ -15,7 +15,7 @@
       "zip": "134112"
     },
     "website": "",
-    "resumedownload": "https://firebasestorage.googleapis.com/v0/b/aayush-jain.appspot.com/o/AayushJainResume.pdf?alt=media&token=51383746-1ee0-4b8c-b1b9-c7cb872b43c4",
+    "resumedownload": "https://firebasestorage.googleapis.com/v0/b/aayush-jain.appspot.com/o/Aayush%20Jain%20Resume.pdf?alt=media&token=c2a9c336-4552-47c3-9027-a3a6f6d71f9e",
     "social": [
       {
         "name": "mail",
@@ -51,7 +51,7 @@
         "school": "Chandigarh University",
         "degree": "B.E. Computer Science with Specialisation in Internet of Things",
         "graduated": "2018 - Present",
-        "description": "GPA achieved: 7.13"
+        "description": "GPA achieved: 7.19"
       },
       {
         "school": "Government Model Senior Secondary School",
@@ -71,13 +71,13 @@
         "company": "Latracal Solutions",
         "title": "Intern",
         "years": "August 2020 - September 2020",
-        "description": "Designed a Python e-course. Programmed and tested over 150+ python codes "
+        "description": "• Designed a Python e-course for a Python Learning App- Pycoders. • Programmed and tested over 150+ python codes."
       },
       {
         "company": "OPMAGIC.AI",
-        "title": "Web Developer Intern",
-        "years": "December 2020 - March 2021",
-        "description": "Technologies Used: React.js, Django, MongoDB. Built various components as per the requirements which were used to maintain a workflow in a business or an organisation."
+        "title": "SDE Intern",
+        "years": "December 2020 - May 2021",
+        "description": "• Technologies Used: React.js, Django, MongoDB, PostgreSQL.\n • Built an ERP model to maintain a workflow of a business or an organisation.\n• Built various reusable components which were used widely in the project and integrated them with Django APIs.\n • Debugged and tested various modules."
       }
     ],
     "skills": [
@@ -110,22 +110,52 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Home Automation",
+        "category": "Enables home automation features using MERN WebApp",
+        "image": "homeauto1.png",
+        "url": "https://github.com/aayushjain7/Home-Automation"
+      },
+      {
+        "title": "Graph Media",
+        "category": "A Social Media Web App designed using MERN, GraphQL and Apollo Server",
+        "image": "graph.png",
+        "url": "https://github.com/aayushjain7/Graph-Media"
+      },
+      {
+        "title": "Face Classification",
+        "category": "ML Model to classify faces with web interface using Flask.",
+        "image": "face.png",
+        "url": "https://github.com/aayushjain7/Face-Classification"
+      },
+      {
+        "title": "Covid-19 Tracker",
+        "category": "Get up-to-date information for every country using Maps and Chartjs.",
+        "image": "covid.png",
+        "url": "https://github.com/aayushjain7/Covid19-Tracker"
+      },
+      {
         "title": "Felix (MEAN)",
         "category": "Recommend stuff according to your mood.",
         "image": "felix.png",
         "url": "https://github.com/aayushjain7/felix-MEAN"
       },
       {
-        "title": "Amazon Clone (React JS)",
+        "title": "Amazon Clone (React)",
         "category": "With Full Payment Processing with Stripe",
         "image": "amazon.png",
         "url": "https://github.com/aayushjain7/Amazon-Clone"
       },
       {
-        "title": "Netflix Clone (React JS)",
+        "title": "Netflix Clone (React)",
         "category": "With Full Payment Processing with Stripe",
         "image": "netflix.png",
         "url": "https://github.com/aayushjain7/Netflix-Clone"
+      },
+      {
+        "title": "Restaurant Reservation",
+        "category": "CRUD operation on reservations using MEAN",
+        "image": "restaurant.png",
+        "url": "https://github.com/aayushjain7/RestaurantReservation"
       }
     ]
   },

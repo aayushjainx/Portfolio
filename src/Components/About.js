@@ -1,4 +1,6 @@
 import React from 'react';
+import InfoIcon from '@material-ui/icons/Info';
+import Fade from 'react-reveal/Fade';
 
 const About = ({ data }) => {
   if (data) {
@@ -17,39 +19,45 @@ const About = ({ data }) => {
   return (
     <section id='about'>
       <div className='row'>
-        <div className='three columns'>
-          <img className='profile-pic' src={profilepic} alt="Aayush's Profile Pic" />
-        </div>
-        <div className='eight columns main-col'>
-          <h2>About Me</h2>
+        <Fade left>
+          <div className='three columns'>
+            <img className='profile-pic' src={profilepic} alt="Aayush's Profile Pic" />
+          </div>
+        </Fade>
+        <Fade right cascade>
+          <div className='eight columns main-col'>
+            <h2>
+              <InfoIcon style={{ fontSize: '2rem' }} /> About Me
+            </h2>
 
-          <p>{bio}</p>
-          <div className='row'>
-            <div className='columns contact-details'>
-              <h2>Contact Details</h2>
-              <p className='address'>
-                <span>{name}</span>
-                <br />
-                <span>
-                  {street}
+            <p>{bio}</p>
+            <div className='row'>
+              <div className='columns contact-details'>
+                <h2>Contact Details</h2>
+                <p className='address'>
+                  <span>{name}</span>
                   <br />
-                  {city} {state}, {zip}
-                </span>
-                <br />
-                <span>{phone}</span>
-                <br />
-                <span>{email}</span>
-              </p>
-            </div>
-            <div className='columns download'>
-              <p>
-                <a href={resumeDownload} className='button' target='_blank' rel='noreferrer'>
-                  <i className='fa fa-download'></i>Download Resume
-                </a>
-              </p>
+                  <span>
+                    {street}
+                    <br />
+                    {city} {state}, {zip}
+                  </span>
+                  <br />
+                  <span>{phone}</span>
+                  <br />
+                  <span>{email}</span>
+                </p>
+              </div>
+              <div className='columns download'>
+                <p>
+                  <a href={resumeDownload} className='button' target='_blank' rel='noreferrer'>
+                    <i className='fa fa-download'></i>Download Resume
+                  </a>
+                </p>
+              </div>
             </div>
           </div>
-        </div>
+        </Fade>
       </div>
     </section>
   );
