@@ -7,7 +7,7 @@
     "bio": "Hi, I'm Aayush, an aspirant who welcomes challenging projects and enjoys working with all sorts of personalities. I have quite a few experience as an Intern in startups but now I'm looking for an organization where I can utilize my existing skills and knowledge and get coupled with embedded expertise to contribute in the accomplishment of organizational goals. Furthermore, I am quick learner and a great team player which makes me flexible and adaptive to all sort of enviroments and modern technologies.",
     "contactmessage": "Get in touch with me!",
     "email": "jaayush014@gmail.com",
-    "phone": "+91 8437179916",
+    "phone": "",
     "address": {
       "street": "206, Sector-11",
       "city": "Panchkula",
@@ -15,7 +15,7 @@
       "zip": "134112"
     },
     "website": "",
-    "resumedownload": "https://firebasestorage.googleapis.com/v0/b/aayush-jain.appspot.com/o/Aayush%20Jain%20Resume.pdf?alt=media&token=c2a9c336-4552-47c3-9027-a3a6f6d71f9e",
+    "resumedownload": "https://firebasestorage.googleapis.com/v0/b/aayush-jain.appspot.com/o/AayushJainResume.pdf?alt=media&token=362a42f5-2b6f-40b1-87be-5b29d19cd165",
     "social": [
       {
         "name": "mail",
@@ -51,7 +51,7 @@
         "school": "Chandigarh University",
         "degree": "B.E. Computer Science with Specialisation in Internet of Things",
         "graduated": "2018 - Present",
-        "description": "GPA achieved: 7.19"
+        "description": "GPA achieved: 7.34"
       },
       {
         "school": "Government Model Senior Secondary School",
@@ -68,16 +68,23 @@
     ],
     "work": [
       {
-        "company": "Latracal Solutions",
-        "title": "Intern",
-        "years": "August 2020 - September 2020",
-        "description": "• Designed a Python e-course for a Python Learning App- Pycoders. • Programmed and tested over 150+ python codes."
+        "company": "Toddle - Teacher Tool Pvt. Ltd.",
+        "title": "Software Engineer Intern",
+        "years": "August 2021 - Present",
+        "description": ""
       },
+     
       {
         "company": "OPMAGIC.AI",
         "title": "SDE Intern",
         "years": "December 2020 - May 2021",
         "description": "• Technologies Used: React.js, Django, MongoDB, PostgreSQL.\n • Built an ERP model to maintain a workflow of a business or an organisation.\n• Built various reusable components which were used widely in the project and integrated them with Django APIs.\n • Debugged and tested various modules."
+      },
+      {
+        "company": "Latracal Solutions",
+        "title": "Intern",
+        "years": "August 2020 - September 2020",
+        "description": "• Designed a Python e-course for a Python Learning App- Pycoders. • Programmed and tested over 150+ python codes."
       }
     ],
     "skills": [
@@ -100,6 +107,18 @@
       {
         "name": "Java Script",
         "level": "85%"
+      },
+      {
+        "name": "React",
+        "level": "85%"
+      },
+      {
+        "name": "Node.js",
+        "level": "85%"
+      },
+      {
+        "name": "GraphQL",
+        "level": "75%"
       },
       {
         "name": "Problem Solving",
