@@ -69,21 +69,36 @@
 		"work": [
 			{
 				"company": "Toddle - Teacher Tool Pvt. Ltd.",
-				"title": "Software Engineer Intern",
-				"years": "August 2021 - Present",
+				"designations": [
+					{
+						"title": "Associate Software Engineer",
+						"years": "July 2022 - Present"
+					},
+					{
+						"title": "Software Engineer Intern",
+						"years": "August 2021 - June 2022"
+					}
+				],
 				"description": ""
 			},
-
 			{
 				"company": "OPMAGIC.AI",
-				"title": "SDE Intern",
-				"years": "December 2020 - May 2021",
+				"designations": [
+					{
+						"title": "SDE Intern",
+						"years": "December 2020 - May 2021"
+					}
+				],
 				"description": "• Technologies Used: React.js, Django, MongoDB, PostgreSQL.\n • Built an ERP model to maintain a workflow of a business or an organisation.\n• Built various reusable components which were used widely in the project and integrated them with Django APIs.\n • Debugged and tested various modules."
 			},
 			{
 				"company": "Latracal Solutions",
-				"title": "Intern",
-				"years": "August 2020 - September 2020",
+				"designations": [
+					{
+						"title": "Intern",
+						"years": "August 2020 - September 2020"
+					}
+				],
 				"description": "• Designed a Python e-course for a Python Learning App- Pycoders. • Programmed and tested over 150+ python codes."
 			}
 		],
