@@ -108,27 +108,7 @@
 		],
 		"skills": [
 			{
-				"name": "Java",
-				"level": "70%"
-			},
-			{
-				"name": "Python",
-				"level": "85%"
-			},
-			{
-				"name": "Web Development",
-				"level": "90%"
-			},
-			{
-				"name": "DBMS",
-				"level": "70%"
-			},
-			{
-				"name": "Java Script",
-				"level": "85%"
-			},
-			{
-				"name": "React",
+				"name": "JavaScript",
 				"level": "85%"
 			},
 			{
@@ -137,11 +117,35 @@
 			},
 			{
 				"name": "GraphQL",
+				"level": "90%"
+			},
+			{
+				"name": "PostgreSQL",
+				"level": "80%"
+			},
+			{
+				"name": "React",
 				"level": "75%"
+			},
+			{
+				"name": "TypeScript",
+				"level": "40%"
+			},
+			{
+				"name": "Web Development",
+				"level": "90%"
+			},
+			{
+				"name": "DBMS",
+				"level": "80%"
 			},
 			{
 				"name": "Problem Solving",
 				"level": "90%"
+			},
+			{
+				"name": "Java",
+				"level": "60%"
 			}
 		]
 	},
